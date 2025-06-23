@@ -15,5 +15,5 @@ This is a simple C++ console application that allows users to register and log i
 - 💾 **File Handling**
   - Uses `ifstream` and `ofstream` to store and read user credentials from `Database.txt`.
 
-## 📷 Sample Output
+
 
